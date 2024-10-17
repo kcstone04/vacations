@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="dancing">
+    <title>How to Dance With a Baby</title>
+    <shortdesc>How to break it down with a stupid dumb baby!</shortdesc>
+    <taskbody>
+        <prereq id="prereq_mmj_x3t_bdc">
+            <ul id="ul_knz_y3t_bdc">
+                <li>A small stupid dumb tiny baby.</li>
+                <li>Music (not Kanye, or anything else cringe)</li>
+                <li>Diapers (in case of tragedy)</li>
+            </ul>
+        </prereq>
+        <context>
+            <p>I will be teaching you how to dance with a small tiny dumb baby. It can be quite a
+                difficult task to accomplish that, I daresay. Use this task when you find yourself
+                wanting to dance with a baby, ideally only after the small stupid baby has had a
+                nap.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Pick up the baby.</cmd>
+                <info>
+                    <note id="note_yt4_jjt_bdc" type="danger">Be sure the stupid baby has a clean
+                        diaper.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Play some sick music.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
